@@ -7,6 +7,7 @@ Specifically, we are making available two simple-to-print flow adapters, togethe
 
 ## Basic Build Information
 * Both sets of parts below should be printed in ordinary PLA with a layer height of 0.2mm. 
+* Infill of 20% is more than sufficient for appropriate rigidity. 
 * PLA including additives *should not be used*. Other materials can be considered. PETG seems a particularly good option for dimensional accuracy, though this has not yet been tested. ABS should not be used.
 * Depending on your cooling capacity you may not require any supports, but your mileage may vary. `adapter_v6_smallMaleMale.stl` and `valve_v6_Female.stl` both include a 90 degree overhang when printed in the correct orientation. Setting the overhang angle to 75 degrees will eliminate unnecessary support structures being generated for threading in each of the valve components.
 * Press-fit interfaces between adapters and valves should be lined with teflon tape.
