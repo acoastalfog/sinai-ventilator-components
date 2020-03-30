@@ -28,7 +28,7 @@ These designs have been fit tested from prints on at least 6 commonly available 
 
 Appropriate orientation on the build plate is shown here.
 
-![Check Valve On Glass Build Plate](https://github.com/acoastalfog/sinai-ventilator-components/blob/master/checkValveOnPlate.jpg)
+![Check Valve On Glass Build Plate](https://github.com/acoastalfog/sinai-ventilator-components/blob/master/media/checkValveOnPlate.jpg)
 
 ## Check Valve Build Instructions
 * Check back later. For now, please see instructions in the parent project [here](https://youtu.be/sCIX3egYKQM).
