@@ -1,3 +1,5 @@
+**NOTE 2020-03-30: *Please as of this moment only produce the one-way check-valve components until further notice. It is likely that our gate valve will change due to regulatory requirements, so adapters must be modified or may become obsolete. The check valve is independent of the gate and has been approved.***
+
 # Mount Sinai Health System Ventilator Model Files
 Possible 3D Printed Component Substitutes, Version 6
 
@@ -15,6 +17,7 @@ Specifically, we are making available two simple-to-print flow adapters, togethe
 These designs have been fit tested from prints on at least 6 commonly available FDM-style 3D printers, with good intra-printer reliability. For use, prints from the same printer should be paired. The entire set of files has been parameterized around the fit of the male interface to a commonly-available [3/4" brass sweat gate valve](https://www.homedepot.com/p/Everbilt-3-4-in-Brass-Sweat-x-Sweat-Gate-Valve-170-4-34-EB/308593230).
 
 ## Inner (Male-Male) and Outer (Female-Female) Flow Adapters
+**NOTE 2020-03-30: *Please do not yet produce this part. It is likely that our gate valve will change due to regulatory requirements, so adapters must be modified or may become obsolete.***
 * Files are `adapter_v6_largeFemaleFemale.stl` and `adapter_v6_smallMaleMale.stl`.
 * Files should be printed in a vertical orientation, but are symmetric along this axis with a normal plane of symmetry, so either orientation is equivalent. 
 
