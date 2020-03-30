@@ -1,6 +1,6 @@
 **NOTE 2020-03-30: *Please as of this moment only produce the one-way check-valve components until further notice. It is likely that our gate valve will change due to regulatory requirements, so adapters must be modified or may become obsolete. The check valve is independent of the gate and has been approved.***
 
-**NOTE 2020-03-30: *We have included the current version (1.2) of the Mount Sinai Ventilator Splitting Protocol. This protocol is not final, poses significnat risks to both patients sharing a single ventilator and does not in any way reflect the normal standard of care within the Mount Sinai Health System. The protocol has not yet been trialed in patients. It is included for academic purposes and for implementation in high-fidelity human patient simulator laboratory settings.***
+**NOTE 2020-03-30: *We have included the current version (1.2) of the Mount Sinai Ventilator Splitting Protocol. This protocol is not final, poses significant risks to both patients sharing a single ventilator and does not in any way reflect the normal standard of care within the Mount Sinai Health System. The protocol has not yet been trialed in patients. It is included for academic purposes and for implementation in high-fidelity human patient simulator laboratory settings.***
 
 # Mount Sinai Health System Ventilator Model Files
 Possible 3D Printed Component Substitutes, Version 6
