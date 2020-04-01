@@ -1,4 +1,4 @@
-**THIS IS THE CURRENT VERSION**
+**THIS VERSION IS OUT OF DATE.**
 
 **NOTE 2020-04-01: *Added optional laser-cut plastic membrane [cut files](membrane) and [instructions](buildPlasticMembrane.md).***
 

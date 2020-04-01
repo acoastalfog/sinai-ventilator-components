@@ -1,4 +1,4 @@
-**CURRENT VERSION: [v1.2](https://github.com/acoastalfog/sinai-ventilator-components/blob/master/v1.2). Instructions in the current version's folder should be followed, together with the supplied protocol.**
+**CURRENT VERSION: [v1.3](https://github.com/acoastalfog/sinai-ventilator-components/blob/master/v1.3). Instructions in the current version's folder should be followed, together with the supplied protocol.**
 
 **NOTE 2020-04-01: *We have split version tracking in this project into folders. Each version contains its own `README.md` file, together with the Mount Sinai protocol, STEP, STL, and Fusion360 component files, prototyping instructions, and walk-throughs.***
 
