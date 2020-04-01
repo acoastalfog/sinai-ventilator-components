@@ -18,7 +18,7 @@
 
 ![Widen Inner Male Adapter Socket](media/Check_3.jpg)
 
-2. Using a standard Ziploc or equivalent sandwich bag, cut a single layer of plastic material large enough to entire cover the surface of the male valve component.
+2. Using a standard Ziploc or equivalent sandwich bag, cut a single layer of plastic material large enough to entire cover the surface of the male valve component. Alternatively, you may use the optional laser-cut plastic membrane [cut files](membrane) and [instructions](buildPlasticMembrane.md) to create a precision membrane from standard Ziploc bags.
 
 ![Ziploc Sandwich Bag](media/Check_4.jpg)
 
