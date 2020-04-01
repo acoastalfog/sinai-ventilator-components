@@ -1,4 +1,4 @@
-**NOTE 2020-04-01: *We have validated the adapter components against multiple gate and needle valve configurations of the current and future protocols from the anesthesia team. Adapter components printed from files here should therefore now be printed.***
+**NOTE 2020-04-01: *We have validated the adapter components against multiple gate and needle valve configurations of the current and future protocols from the anesthesia team. Adapter components should now be printed.***
 
 **NOTE 2020-04-01: *Added optional laser-cut plastic membrane [cut files](membrane) and [instructions](buildPlasticMembrane.md).***
 
@@ -23,7 +23,7 @@ These designs have been fit tested from prints on at least 6 commonly available 
 
 ## Inner (Male-Male) and Outer (Female-Female) Flow Adapters
 
-**NOTE: 2020-04-01: *We have validated the adapter components against multiple gate and needle valve configurations of the current and future protocols from the anesthesia team. Adapter components printed from files here should therefore now be printed.***
+**NOTE: 2020-04-01: *We have validated the adapter components against multiple gate and needle valve configurations of the current and future protocols from the anesthesia team. Adapter components should now be printed.***
 
 ~~NOTE 2020-03-30: Please do not yet produce this part. It is likely that our gate valve will change due to regulatory requirements, so adapters must be modified or may become obsolete.~~
 
