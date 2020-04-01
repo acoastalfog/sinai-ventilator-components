@@ -1,5 +1,3 @@
-**THIS IS THE CURRENT VERSION**
-
 **NOTE 2020-04-01: *Added optional laser-cut plastic membrane [cut files](membrane) and [instructions](buildPlasticMembrane.md).***
 
 **NOTE 2020-03-31: *Added detailed check valve assembly instructions [here](buildCheckValve.md).***
