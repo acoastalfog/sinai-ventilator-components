@@ -1,5 +1,7 @@
 **THIS IS THE CURRENT VERSION**
 
+**NOTE 2020-04-01: *Added optional laser-cut plastic membrane [cut files](membrane) and [instructions](buildPlasticMembrane.md).***
+
 **NOTE 2020-03-31: *Added detailed check valve assembly instructions [here](buildCheckValve.md).***
 
 **NOTE 2020-03-30: *Please as of this moment only produce the one-way check-valve components until further notice. It is likely that our gate valve will change due to regulatory requirements, so adapters must be modified or may become obsolete. The check valve is independent of the gate and has been approved.***
@@ -29,6 +31,7 @@ These designs have been fit tested from prints on at least 6 commonly available 
 * Print orientation here *matters*. `valve_v1.2_Male.stl` must be printed with the threading down toward the build surface, preferably made of glass or other very smooth material. It is important that this interface is as smooth as possible.
 * `valve_v1.2_Female.stl` should be printed with threads up, as this eliminates unnecessary support structures inside the thread cavity, requiring them only for the 90 degree overhang.
 * Build instructions are now available as a [separate document](buildCheckValve.md).
+* We include laser-cut plastic membrane [cut files](membrane) and [instructions](buildPlasticMembrane.md) as an assembly option, referenced in the build instructions for the check valve.
 
 Appropriate orientation on the build plate is shown here.
 
