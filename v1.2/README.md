@@ -1,10 +1,4 @@
-**THIS VERSION IS OUT OF DATE.**
-
-**NOTE 2020-04-01: *Added optional laser-cut plastic membrane [cut files](membrane) and [instructions](buildPlasticMembrane.md).***
-
-**NOTE 2020-03-31: *Added detailed check valve assembly instructions [here](buildCheckValve.md).***
-
-**NOTE 2020-03-30: *Please as of this moment only produce the one-way check-valve components until further notice. It is likely that our gate valve will change due to regulatory requirements, so adapters must be modified or may become obsolete. The check valve is independent of the gate and has been approved.***
+**THIS VERSION IS OUT OF DATE. PLEASE DO NOT USE.**
 
 # Mount Sinai Health System Split Ventilator Prototyping
 Version 1.2
