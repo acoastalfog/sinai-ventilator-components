@@ -1,15 +1,13 @@
 **THIS IS THE CURRENT VERSION**
 
-**NOTE 2020-03-31: *Detailed check valve assembly instructions and a bill of materials have been added to the end of this document.***
+**NOTE 2020-03-31: *Added detailed check valve assembly instructions [here](buildCheckValve.md).***
 
 **NOTE 2020-03-30: *Please as of this moment only produce the one-way check-valve components until further notice. It is likely that our gate valve will change due to regulatory requirements, so adapters must be modified or may become obsolete. The check valve is independent of the gate and has been approved.***
-
-**NOTE 2020-03-30: *We have included the current version (1.2) of the Mount Sinai Ventilator Splitting Protocol. This protocol is not final, poses significant risks to both patients sharing a single ventilator and does not in any way reflect the normal standard of care within the Mount Sinai Health System. The protocol has not yet been trialed in patients. It is included for academic purposes and for implementation in high-fidelity human patient simulator laboratory settings.***
 
 # Mount Sinai Health System Split Ventilator Prototyping
 Version 1.2
 
-Here, we are making available two simple-to-print flow adapters (in folder [adapter](https://github.com/acoastalfog/sinai-ventilator-components/blob/master/v1.2/adapter)), together with a one-way check valve (in folder [checkValve](https://github.com/acoastalfog/sinai-ventilator-components/blob/master/v1.2/check_valve)). The check valve is a heavily modified version of an existing open source project, with original project documentation, [build instructions](https://youtu.be/sCIX3egYKQM), and [project files](https://cad.onshape.com/documents/5c996e71d2872726995198bf/w/40c80b6ee82124a954fda09d/e/5520dc2a611624c9350b6dc1) also publicly available. We thank these teams for their effort. 
+Here, we are making available two simple-to-print flow adapters (in folder [adapter](adapter)), together with a one-way check valve (in folder [check_valve](check_valve)). The check valve is a heavily modified version of an existing open source project, with original project documentation, [build instructions](https://youtu.be/sCIX3egYKQM), and [project files](https://cad.onshape.com/documents/5c996e71d2872726995198bf/w/40c80b6ee82124a954fda09d/e/5520dc2a611624c9350b6dc1) also publicly available. We thank these teams for their effort. 
 
 ## Basic Build Information
 * Both sets of parts below should be printed in PLA with a layer height between 0.1 and 0.3mm. We encourage you to print at the largest layer height possible and checking for press-fit and thread compatibility for the adapter and check valve, respectively.
@@ -30,7 +28,7 @@ These designs have been fit tested from prints on at least 6 commonly available 
 * Files are `valve_v1.2_Female.stl` and `valve_v1.2_Male.stl`, and can be printed in ordinary PLA.
 * Print orientation here *matters*. `valve_v1.2_Male.stl` must be printed with the threading down toward the build surface, preferably made of glass or other very smooth material. It is important that this interface is as smooth as possible.
 * `valve_v1.2_Female.stl` should be printed with threads up, as this eliminates unnecessary support structures inside the thread cavity, requiring them only for the 90 degree overhang.
-* Build instructions are now available as a [separate document](https://github.com/acoastalfog/sinai-ventilator-components/blob/master/v1.2/buildCheckValve.md).
+* Build instructions are now available as a [separate document](buildCheckValve.md).
 
 Appropriate orientation on the build plate is shown here.
 
