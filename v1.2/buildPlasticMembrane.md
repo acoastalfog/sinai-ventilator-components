@@ -2,7 +2,7 @@
 
 ## Build Instructions for Laser Cutting Plastic Bag Membrane
 
-1. Load `plasticValveMembrane.dxf` or `plasticValveMembrane.svg` into the vector editing software of your choice.
+1. Load `plasticValveMembrane_v1.2.dxf` or `plasticValveMembrane_v1.2.svg` into the vector editing software of your choice.
 2. Ensure the diameter of the larger circle is 1 in. Scale the drawing uniformly if needed.
 3. Change the drawing fill, stroke width, and stroke color to ensure it is cut (not scored, etched, or rastered) on the laser cutting system being used.
 4. Once the necessary drawing edits have been made, adjust the cutting parameters of the laser to the following:
