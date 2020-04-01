@@ -1,8 +1,10 @@
+**NOTE 2020-04-01: *We have validated the adapter components against multiple gate and needle valve configurations of the current and future protocols from the anesthesia team. Adapter components printed from files here should therefore now be printed.***
+
 **NOTE 2020-04-01: *Added optional laser-cut plastic membrane [cut files](membrane) and [instructions](buildPlasticMembrane.md).***
 
 **NOTE 2020-03-31: *Added detailed check valve assembly instructions [here](buildCheckValve.md).***
 
-**NOTE 2020-03-30: *Please as of this moment only produce the one-way check-valve components until further notice. It is likely that our gate valve will change due to regulatory requirements, so adapters must be modified or may become obsolete. The check valve is independent of the gate and has been approved.***
+~~NOTE 2020-03-30: *Please as of this moment only produce the one-way check-valve components until further notice. It is likely that our gate valve will change due to regulatory requirements, so adapters must be modified or may become obsolete. The check valve is independent of the gate and has been approved.*~~
 
 # Mount Sinai Health System Split Ventilator Prototyping
 Version 1.3
@@ -20,7 +22,11 @@ Here, we are making available two simple-to-print flow adapters (in folder [adap
 These designs have been fit tested from prints on at least 6 commonly available FDM-style 3D printers, with good intra-printer reliability. For use, prints from the same printer should be paired. The entire set of files has been parameterized around the fit of the male interface to a commonly-available [3/4" brass sweat gate valve](https://www.homedepot.com/p/Everbilt-3-4-in-Brass-Sweat-x-Sweat-Gate-Valve-170-4-34-EB/308593230).
 
 ## Inner (Male-Male) and Outer (Female-Female) Flow Adapters
-**NOTE 2020-03-30: *Please do not yet produce this part. It is likely that our gate valve will change due to regulatory requirements, so adapters must be modified or may become obsolete.***
+
+**NOTE: 2020-040-1: *We have validated the adapter components against multiple gate and needle valve configurations of the current and future protocols from the anesthesia team. Adapter components printed from files here should therefore now be printed.***
+
+~~NOTE 2020-03-30: *Please do not yet produce this part. It is likely that our gate valve will change due to regulatory requirements, so adapters must be modified or may become obsolete.**~~
+
 * Files are `adapter_v1.3_largeFemaleFemale.stl` and `adapter_v1.3_smallMaleMale.stl`.
 * Files should be printed in a vertical orientation, but are symmetric along this axis with a normal plane of symmetry, so either orientation is equivalent. 
 
