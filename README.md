@@ -10,3 +10,8 @@ Our contributions are for academic study only and we do not endorse their use in
 Any included protocols are not final, pose significant risks to both patients sharing a single ventilator and do not in any way reflect the normal standard of care within the Mount Sinai Health System. Protocols have not yet been trialed in patients. They are included for academic purposes and for implementation in high-fidelity human patient simulator laboratory settings.
 
 We are following the versioning scheme developed by the Anesthesia team, and we will update the head of this document with the most up to date versions as they become available, together with paired prototyping files and instructions. Most components developed a set of valves and adapters for printing on ordinary, widely available FDM-style 3D printers, commonly found in makerspaces, institutional prototyping facilities, and home labs. Variations and opportunities to use alternate prototyping tools, and versioned branches of the protocol, will also be tracked.
+
+## Sinai BioDesign Team Members
+* Joe Borrello
+* Jake Wolf
+* Anthony Costa
